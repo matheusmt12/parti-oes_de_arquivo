@@ -1,0 +1,96 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.c
+string.h
+-
+stdlib.h
+-
+stdarg.h
+-
+cliente.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.h
+stdio.h
+-
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/geracao_particoes.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+geracao_particoes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/geracao_particoes.h
+nomes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.h
+cliente.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.h
+limits.h
+-
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/geracao_particoes.h
+nomes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/lista_clientes.c
+stdlib.h
+-
+stdarg.h
+-
+lista_clientes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/lista_clientes.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/lista_clientes.h
+cliente.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.c
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+nomes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/test_geracao_particoes.c
+io.h
+-
+unistd.h
+-
+limits.h
+-
+stdlib.h
+-
+ufftest.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/ufftest.h
+cliente.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/cliente.h
+lista_clientes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/lista_clientes.h
+nomes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/nomes.h
+geracao_particoes.h
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/geracao_particoes.h
+
+C:/Users/Matheus Souza/Desktop/ED2/1aEntregaArquivos.zip (Unzipped Files)/ufftest.h
+string.h
+-
+stdlib.h
+-
+stdio.h
+-
+time.h
+-
+
